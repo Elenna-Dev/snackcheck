@@ -1,6 +1,6 @@
 
 
-## REGISTRO DE PRUEBAS\
+## REGISTRO DE PRUEBAS
 \
 \
 #\
